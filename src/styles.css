@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+.input-area {
+  background-color: #cfffff;
+  width: 400px;
+}
+.incomplate-area {
+  background-color: #ffcfff;
+  width: 400px;
+}
+.complate-area {
+  background-color: #ffff0f;
+  width: 400px;
+}
